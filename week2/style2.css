@@ -1,7 +1,8 @@
-.container{
+/* .container{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     color: aliceblue;
 }
 
@@ -24,4 +25,5 @@
     background-color: blue;
     width: 150px;
     height: 150px;
-}
+} */
+
